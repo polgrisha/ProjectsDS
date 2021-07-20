@@ -1,1 +1,1 @@
-## Projects on course "Applied statistics and data analysis".
+## "Applied statistics and data analysis" course projects
