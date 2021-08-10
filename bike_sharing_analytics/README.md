@@ -7,7 +7,7 @@
 * [Experiments with time series and trip number predictions](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/time_series_analysis.ipynb)
 * [Group trips analysis](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/group_trips_detection.ipynb)
 * [Behaviour of supscription owners](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/subscriptions.ipynb)
-* [Random forest](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/classic_ml_experiments/6_RandomForest.ipynb) - just for stacking (0.939 LB)
+* Some analysis of weather factors [here](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/weather_analysis.ipynb), [here](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/time_series_analysis-2.ipynb) and [here](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/time_series_r.ipynb)
 * [Viterbi algorithm](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Viterbi.ipynb) (0.930 LB)
 * [LSTM on RandomForest predictions](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/LSTM_stacking.ipynb) (0.939 LB)
 * [WaveNet](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Wavenet.ipynb) (0.941 LB)
