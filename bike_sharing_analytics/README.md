@@ -8,4 +8,4 @@
 * [Group trips analysis](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/group_trips_detection.ipynb)
 * [Behaviour of supscription owners](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/subscriptions.ipynb)
 * Some analysis of weather factors: [here](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/weather_analysis.ipynb), [here](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/time_series_analysis-2.ipynb) and [here](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/time_series_r.ipynb)
-* [Final results and recommendations to company]()
+* [Final results and company recommendations](https://github.com/polgrisha/Projects_DS/blob/master/bike_sharing_analytics/final_results.pdf)
